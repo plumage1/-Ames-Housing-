@@ -183,9 +183,9 @@ project2/
 |   |-- prediction_visualization.png
 ```
 
-## 9. 提交说明
+## 9. 说明
 
-本项目已整理为可直接提交版本。若需检查结果，可直接查看：
+本项目为运行后版本。若需检查结果，可直接查看：
 
 - `docs/DATA_DESCRIPTION.md`
 - `result/model_metrics.csv`
