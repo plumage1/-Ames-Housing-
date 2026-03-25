@@ -1,0 +1,2 @@
+model_name,predicted_sale_price,predicted_sale_price_10k,training_mean_price,training_median_price
+RandomForest,182680.03,18.268003,180921.19589041095,163000.0
